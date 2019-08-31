@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jhister_ngx_admin",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster_ngx_admin",
+    "packageName": "com.jhister_ngx_admin",
+    "packageFolder": "com/jhister_ngx_admin",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OThkNDE3ZDI0ZGNmZTg1NThmNDg1ODA5ZDQ3YTAxYjQ4Mjc1NGFiM2I4ZTQ1MGEzNjRkMzU5ZjA5ODgxODRjODVjNGZkODM3MDk1MzRiNTZiODYxY2QyN2RkMmNiNjU4MzI0NmJhNDFkZmQ1ODU3MzZjYTk2ZjBkZWY2ZTNjYjA=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "lux",
+    "clientThemeVariant": "primary",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr"],
+    "blueprints": []
+  }
+}
